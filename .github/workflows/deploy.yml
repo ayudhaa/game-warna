@@ -3,7 +3,7 @@ name: Deploy React Vite App to GitHub Pages
 on:
   push:
     branches:
-      - main # ganti sesuai branch utama kamu
+      - main
 
 jobs:
   build-and-deploy:
