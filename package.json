@@ -2,7 +2,7 @@
   "name": "game-warna",
   "version": "1.0.0",
   "private": true,
-  "homepage": "https://username.github.io/game-warna",
+  "homepage": "https://ayudhaa.github.io/game-warna",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
